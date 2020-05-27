@@ -16,3 +16,5 @@ https://hackaday.io/project/12482-garage-door-opener/log/45617-connecting-the-es
 https://hackaday.io/project/12482-garage-door-opener/log/43368-adding-tls
 
 https://www.iot-onoff.com/
+
+https://www.heise.de/developer/artikel/Kommunikation-ueber-MQTT-3238975.html
