@@ -18,3 +18,5 @@ https://hackaday.io/project/12482-garage-door-opener/log/43368-adding-tls
 https://www.iot-onoff.com/
 
 https://www.heise.de/developer/artikel/Kommunikation-ueber-MQTT-3238975.html
+
+http://www.steves-internet-guide.com/mosquitto_pub-sub-clients/
