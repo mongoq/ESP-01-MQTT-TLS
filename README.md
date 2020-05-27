@@ -14,3 +14,5 @@ https://iot-usergroup.de/allgemein/raspberry-pi-und-nodemcu-kommunizieren-ueber-
 https://hackaday.io/project/12482-garage-door-opener/log/45617-connecting-the-esp8266-with-tls
 
 https://hackaday.io/project/12482-garage-door-opener/log/43368-adding-tls
+
+https://www.iot-onoff.com/
